@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">A tech enthusiast on a learning path, I am.<br>In full stack web development, learning I continue.<br>Cybersecurity, I explore — protect systems, I must.<br>Into cloud computing and AI, step by step, I go.<br>Game development, for fun and creativity, I pursue.<br>Learning always, building always — the way, this is.</p>
+<p align="left">A tech enthusiast on a learning path, I am.<br>In full stack web development, learning I continue.<br>Cybersecurity, I explore — protect systems, I must.<br>Into cloud computing and AI, step by step, I go.<br>Learning always, building always — the way, this is.</p>
 
 ###
 
