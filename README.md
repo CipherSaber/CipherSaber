@@ -1,4 +1,4 @@
-<h1 align="middle">Hey,I'm Jacob </h1>
+<h1 align="left">Jacob Ashirwad</h1>
 
 ###
 
